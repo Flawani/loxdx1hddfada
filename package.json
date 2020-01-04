@@ -1,0 +1,30 @@
+{
+  "name": "spaiispeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/uws": "^11.149.1",
+    "ascii-table": "^0.0.9",
+    "bufferutil": "^4.0.1",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "fortnite": "^4.3.2",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "quick": "^0.0.6",
+    "quick.db": "^7.0.0-b22",
+    "quick.log": "^1.2.1",
+    "quick.log-discord": "^1.1.0",
+    "random-puppy": "^1.1.0",
+    "sodium": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
